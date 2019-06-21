@@ -17,6 +17,10 @@ install:
   - sudo apt-get install sloccount
   # proselint
   - sudo pip install proselint
+  # Check dead links
+  - sudo apt-get install -qq npm
+  - npm config set strict-ssl false
+  - sudo npm install -g markdown-link-check
 
 script: 
   # Build and run the tests
@@ -44,6 +48,9 @@ script:
   - ./do_oclint
   # proselint
   - proselint README.md
+  # Check dead links
+  - rm .travis.yml
+  - ./scripts/check_dead_links
   # Get my folder
   - my_github=${PWD##*/}  
   # SLOCcount
