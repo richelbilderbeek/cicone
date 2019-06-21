@@ -2,8 +2,6 @@
 
 Lesson 1 of [collaboration_in_cpp](https://github.com/richelbilderbeek/collaboration_in_cpp).
 
-![](lesson_1.png)
-
 Branch|[Travis](https://travis-ci.org)|[Codecov](https://www.codecov.io)
 ---|---|---
 `master` |[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=master)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=master)](https://codecov.io/github/richelbilderbeek/cicone/branch/master)
