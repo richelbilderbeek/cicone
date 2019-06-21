@@ -1,5 +1,7 @@
 # cicone
 
+:construction: Work in progress :construction:
+
 Lesson 1 of [collaboration_in_cpp](https://github.com/richelbilderbeek/collaboration_in_cpp).
 
 Branch|[Travis](https://travis-ci.org)|[Codecov](https://www.codecov.io)
