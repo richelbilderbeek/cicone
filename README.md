@@ -1,6 +1,10 @@
 # cicone
 
-:construction: Work in progress :construction:
+:construction: Work in progress :construction::
+
+```
+Tip: if you have just become a Collaborator, set 'Watch' to 'Ignoring'
+```
 
 Lesson 1 of [collaboration_in_cpp](https://github.com/richelbilderbeek/collaboration_in_cpp).
 
