@@ -10,7 +10,7 @@ install:
   # Codecov
   - sudo pip install codecov
   # OCLint
-  - ./install_oclint
+  - ./scripts/install_oclint
   # valgrind, for helgrind and memcheck
   - sudo apt-get install -qq valgrind
   # SLOCcount
@@ -40,12 +40,12 @@ script:
   - gprof cicone > gprof.log
   - head gprof.log -n 1000
   # Get code coverage
-  - ./get_code_cov
+  - ./scripts/get_code_cov
   - codecov
   # cppcheck
   - cppcheck --quiet --error-exitcode=1 . 
   # Call OCLint
-  - ./do_oclint
+  - ./scripts/do_oclint
   # proselint
   - proselint README.md
   # Check dead links
