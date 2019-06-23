@@ -11,34 +11,14 @@ install:
   - sudo pip install codecov
   # OCLint
   - ./scripts/install_oclint
-  # valgrind, for helgrind and memcheck
-  - sudo apt-get install -qq valgrind
   # SLOCcount
   - sudo apt-get install sloccount
-  # proselint
-  - sudo pip install proselint
-  # Check dead links
-  - sudo apt-get install -qq npm
-  - npm config set strict-ssl false
-  - sudo npm install -g markdown-link-check
 
 script: 
   # Build and run the tests
   - qmake
   - make --silent debug
   - ./cicone
-  # helgrind
-  - valgrind --tool=helgrind --log-file=helgrind.log -v ./cicone
-  - cat helgrind.log
-  # memcheck
-  - valgrind --leak-check=full -v --show-reachable=yes --log-file=memcheck.log ./cicone
-  - cat memcheck.log
-  # Build and run and profile normal program
-  - qmake
-  - make --silent release
-  - time ./cicone
-  - gprof cicone > gprof.log
-  - head gprof.log -n 1000
   # Get code coverage
   - ./scripts/get_code_cov
   - codecov
@@ -46,20 +26,19 @@ script:
   - cppcheck --quiet --error-exitcode=1 . 
   # Call OCLint
   - ./scripts/do_oclint
-  # proselint
-  - proselint README.md
-  # Check dead links
-  - rm .travis.yml
-  - ./scripts/check_dead_links
-  # Get my folder
-  - my_github=${PWD##*/}  
+  # Build and run and profile normal program
+  - qmake
+  - make --silent release
+  - time ./cicone
+  - gprof cicone > gprof.log
+  - head gprof.log -n 1000
   # SLOCcount
   #   remove OCLint and .git, otherwise it will be counted as well
   - rm -rf oclint-0.10.3 oclint-0.10.3-x86_64-linux-3.13.0-74-generic.tar.gz oclint.log
   - rm -rf .git
   - rm -rf debug
   - rm -rf release
-  - cd ..; sloccount --overhead 1 --personcost 22614 $my_github; cd $my_github
+  - cd ..; sloccount --overhead 1 --personcost 22614 djog_unos_2018 | egrep -v "Adding"; cd djog_unos_2018
 
 after_success:
   # Codecov
