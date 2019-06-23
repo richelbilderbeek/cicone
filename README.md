@@ -19,17 +19,19 @@ Branch|[![Travis CI logo](pics/TravisCI.png)](https://travis-ci.org)|[![Codecov 
 
 Name     |Status
 ---------|------
-Apu      |0
+Apu      |CI
 Christoph|CI
 Emiliano |0
 Ines     |0
-Joris    |CI
+Joris    |OK
 Magdalena|0
-Marina   |CI
-Matteo   |0
+Marina   |OK
+Matteo   |CI
 Pedro    |CI
-Pratik   |CI
-Raphael  |CI
-Théo     |CI
+Pratik   |OK
+Raphael  |OK
+Théo     |OK
 
+ * 0: No GitHub yet
  * CI: Collaboration Invite
+ * OK: Has become collaborator
