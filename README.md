@@ -24,7 +24,7 @@ Christoph|CI
 Emiliano |0
 Ines     |0
 Joris    |OK
-Magdalena|0
+Magdalena|CI
 Marina   |OK
 Matteo   |CI
 Pedro    |CI
