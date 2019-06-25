@@ -13,18 +13,15 @@ Branch|[![Travis CI logo](pics/TravisCI.png)](https://travis-ci.org)|[![Codecov 
 `master` |[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=master)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=master)](https://codecov.io/github/richelbilderbeek/cicone/branch/master)
 `develop`|[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=develop)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=develop)](https://codecov.io/github/richelbilderbeek/cicone/branch/develop)
 
-
-
 ## Team:
 
 Name     |Status
 ---------|------
 Apu      |CI
-Christoph|CI
-Emiliano |0
-Ines     |0
+Christoph|OK
+Emiliano |CI
 Joris    |OK
-Magdalena|CI
+Magdalena|OK
 Marina   |OK
 Matteo   |CI
 Pedro    |CI
