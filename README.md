@@ -41,6 +41,8 @@ to allow all beginners to get going easily.
 ## Summary of Snow White
 
 Once upon a time ...
+there was an average looking young men named White. He didn't know who his parents were, 
+so his surname was Snow. He got bullied a lot for that growing up, which only made him stronger.
 
 the witch gave a red apple to Snow White
 
