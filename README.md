@@ -47,7 +47,7 @@ there was an average looking young men named White. He didn't know who his paren
 so his surname was Snow. He got bullied a lot for that growing up, which only made him stronger.
 
 His best friend was Anan Turning. They met at the military, bonded over pints of cider (cause the loved
-fruits and at the same time they were responsible).
+fruits and at the same time they were responsible). 
 
 
 The witch gave Alan Turing an apple. But he wished for a Linux.
@@ -71,7 +71,8 @@ Snow White lived with the dwarves.
 and they lived happily ever after.
 
 
-One day, there is a prince coming.
+One day, there is a gay prince coming. He immediently didn't really find White attractive, but he really needed som love in his life.
+He thus made a move and slowly slowly they actually fell in love.
 
 and they lived happily ever after.
 
