@@ -58,7 +58,15 @@ bool coin_to_bool(const std::string& s)
 /// @return the value as a word. If 'i' equals zero, the string will be empty
 std::string int_to_roman(const int i)
 {
-  return std::string(static_cast<size_t>(i), '?'); //STUB
+    if (i == 0) {
+        return std::string(static_cast<size_t>(i), '');
+    } else if (i == 1) {
+        return std::string(static_cast<size_t>(i), 'I');
+    } else if (i == 2) {
+        return std::string(static_cast<size_t>(i), 'II');
+    } else if (i == 3) {
+        return std::string(static_cast<size_t>(i), 'III');
+    };
 }
 
 /// Returns the value of i as a word, for example, '1' becomes 'one'.
