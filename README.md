@@ -11,11 +11,11 @@ Branch|[Travis](https://travis-ci.org)|[Codecov](https://www.codecov.io)
 
 
 Topic branches, ordered alphabetically:
-`marina`|[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=marina)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=marina)](https://codecov.io/github/richelbilderbeek/cicone/branch/marina)
 
 Branch|[Travis](https://travis-ci.org)|[Codecov](https://www.codecov.io)
 ---|---|---
-`...` |...|...
+`marina`|[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=marina)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=marina)](https://codecov.io/github/richelbilderbeek/cicone/branch/marina)
+
 
 ## FAQ
 
