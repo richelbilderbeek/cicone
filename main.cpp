@@ -106,7 +106,17 @@ bool is_perfect(const int x) noexcept
 /// @return true if x is a prime number
 bool is_prime(const int x) noexcept
 {
-  return x == 314; //STUB
+    //check for prime number
+    int j = 0;
+       for (int i = 1; i <= x; i++)
+       {
+          if ((x % i) == 0)
+          {
+             j++;
+          }
+       }
+
+       return j == 2? true:false;
 }
 
 /// Returns the Roman value of s as an integer,
@@ -383,14 +393,14 @@ void test_is_perfect() noexcept
 
 void test_is_prime() noexcept
 {
-  //#define FIX_ISSUE_IS_PRIME
+  #define FIX_ISSUE_IS_PRIME
   #ifdef FIX_ISSUE_IS_PRIME
   assert(!is_prime(-2));
   assert(!is_prime(-1));
   assert(!is_prime(0));
   assert(!is_prime(1));
   assert(is_prime(2));
-  assert(!is_prime(3));
+  //assert(!is_prime(3));
   assert(!is_prime(4));
   assert(is_prime(5));
   assert(!is_prime(6));
@@ -465,5 +475,6 @@ void test() noexcept
 
 int main()
 {
+  // assert(1 == 2);
   test();
 }
