@@ -101,12 +101,12 @@ bool is_perfect(const int x) noexcept
   std::vector<int> factors;
 
   for (int i = 1; i < x; ++i) {
-    if (x % i) {
+    if (x % i == 0) {
       factors.push_back(i);
     }
   }
 
-  int sum = 0;
+  int sum = static_cast<int>(factors.size()) > 0 ? 0 : 100;
 
   for (int i = 0; i < static_cast<int>(factors.size()); ++i) {
     sum += factors[i];
@@ -389,7 +389,7 @@ void test_is_perfect() noexcept
   assert(is_perfect(6));
   assert(!is_perfect(10));
   assert(!is_perfect(16));
-  assert(is_perfect(24));
+  assert(is_perfect(28));
 }
 
 void test_is_prime() noexcept
