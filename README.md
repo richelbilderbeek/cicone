@@ -42,5 +42,6 @@ to allow all beginners to get going easily.
 
 Once upon a time ...
 
+Snow White lived with the dwarves.
 
 and they lived happily ever after.
