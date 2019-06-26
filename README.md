@@ -45,3 +45,5 @@ Once upon a time ...
 This story has to do with some dwarves.
 
 and they lived happily ever after.
+
+`pratik` |[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=truus)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=truus)](https://codecov.io/github/richelbilderbeek/cicone/branch/pratik)
