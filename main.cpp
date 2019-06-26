@@ -108,7 +108,7 @@ bool is_perfect(const int x) noexcept
 
   int sum = 0;
 
-  for (int i = 0; i < factors.size(); ++i) {
+  for (int i = 0; i < static_cast<int>(factors.size()); ++i) {
     sum += factors[i];
   }
 
