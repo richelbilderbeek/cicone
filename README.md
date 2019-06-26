@@ -42,6 +42,8 @@ to allow all beginners to get going easily.
 
 Once upon a time ...
 
+the witch gave a red apple to Snow White
+
 This story involves some dwarves.
 
 and they lived happily ever after.
