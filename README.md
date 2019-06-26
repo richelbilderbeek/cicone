@@ -8,6 +8,7 @@ Branch|[Travis](https://travis-ci.org)|[Codecov](https://www.codecov.io)
 ---|---|---
 `master` |[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=master)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=master)](https://codecov.io/github/richelbilderbeek/cicone/branch/master)
 `develop`|[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=develop)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=develop)](https://codecov.io/github/richelbilderbeek/cicone/branch/develop)
+`pedro`|[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=pedro)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=pedro)](https://codecov.io/github/richelbilderbeek/cicone/branch/pedro)
 
 Topic branches, ordered alphabetically:
 
