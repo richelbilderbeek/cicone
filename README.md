@@ -42,5 +42,6 @@ to allow all beginners to get going easily.
 
 Once upon a time ...
 
+The witch gave Alan Turing an apple.
 
 and they lived happily ever after.
