@@ -19,11 +19,12 @@ Topic branches, ordered alphabetically:
 
 Branch|[Travis](https://travis-ci.org)|[Codecov](https://www.codecov.io)
 ---|---|---
+`Apu` |[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=Apu)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=Apu)](https://codecov.io/github/richelbilderbeek/cicone/branch/Apu)
 `marina`|[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=marina)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=marina)](https://codecov.io/github/richelbilderbeek/cicone/branch/marina)
 `Magda` |[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=Magda)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=Magda)](https://codecov.io/github/richelbilderbeek/cicone/branch/Magda)
 `pedro`|[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=pedro)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=pedro)](https://codecov.io/github/richelbilderbeek/cicone/branch/pedro)
 `pratik` |[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=pratik)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=pratik)](https://codecov.io/github/richelbilderbeek/cicone/branch/pratik)
-`Apu` |[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=Apu)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=Apu)](https://codecov.io/github/richelbilderbeek/cicone/branch/Apu)
+`Stefano` |[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=pratik)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=pratik)](https://codecov.io/github/richelbilderbeek/cicone/branch/pratik)
 `theo`|[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=theo)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=theo)](https://codecov.io/github/richelbilderbeek/cicone/branch/theo)
 
 ## FAQ
