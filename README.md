@@ -42,12 +42,11 @@ to allow all beginners to get going easily.
 
 Once upon a time ...
 
+The witch gave Alan Turing an apple.
 There lived a beautiful girl with her dad and jealous step-mother
 
 the witch gave a red apple to Snow White. Actually there was a full basket of fruit.
 
 This story involves some dwarves.
-
-
 
 and they lived happily ever after.
