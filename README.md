@@ -55,16 +55,4 @@ Snow White fell asleep for a thousand years
 
 This story involves some dwarves.
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-
-Snow White lived with the dwarves.
-
-
->>>>>>> a03d90f70b324aca75053a39889c879d3a9195fe
-and they lived happily ever after.
-=======
 and they lived happily until the next merge conflict.
-
->>>>>>> 4720eea9a4e4d6ab75948f57f5d25de28a971255
