@@ -110,9 +110,20 @@ Snow White lived with the dwarves. Being an expert programmer herself, she could
 One day, there is a prince coming. Grumpy and Prince fought for Snow white's hand. Grumpy won the duel.
 Snow White lived with the dwarves.
 <<<<<<< HEAD
+<<<<<<< HEAD
 and they lived happily until the next merge conflict.
 =======
 
 and they lived happily until the next merge conflict (or they made their own branch).
 
 >>>>>>> 98cb99f45cfe51d731adf660c7b1bae6ab135833
+=======
+and they lived happily until the next merge conflict.
+
+
+and they lived happily until the next merge conflict (or they made their own branch).
+
+
+Disclaimer:Evil enchantments were used to create this repository.
+=======
+>>>>>>> 0c4231c4be5f368067d5127b11e3fd7c2d5a53e8
