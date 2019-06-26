@@ -5,7 +5,7 @@ Lesson 1 of [collaboration_in_cpp](https://github.com/richelbilderbeek/collabora
 Main branches:
 
 Branch|[Travis](https://travis-ci.org)|[Codecov](https://www.codecov.io)
-
+---|---|---
 `master` |[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=master)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=master)](https://codecov.io/github/richelbilderbeek/cicone/branch/master)
 `develop`|[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=develop)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=develop)](https://codecov.io/github/richelbilderbeek/cicone/branch/develop)
 `Apu` |[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=Apu)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=Apu)](https://codecov.io/github/richelbilderbeek/cicone/branch/Apu)
@@ -16,9 +16,7 @@ Branch|[Travis](https://travis-ci.org)|[Codecov](https://www.codecov.io)
 Topic branches, no longer ordered alphabetically:
 
 Branch|[Travis](https://travis-ci.org)|[Codecov](https://www.codecov.io)
-
 ---|---|---
-
 `Apu` |[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=Apu)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=Apu)](https://codecov.io/github/richelbilderbeek/cicone/branch/Apu)
 `marina`|[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=marina)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=marina)](https://codecov.io/github/richelbilderbeek/cicone/branch/marina)
 `Magda` |[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=Magda)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=Magda)](https://codecov.io/github/richelbilderbeek/cicone/branch/Magda)
