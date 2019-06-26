@@ -126,7 +126,7 @@ bool is_prime(const int x) noexcept
           }
        }
 
-       return j == 2? true:false;
+       return j == 2;
 }
 
 /// Returns the Roman value of s as an integer,
@@ -401,16 +401,14 @@ void test_is_perfect() noexcept
   #endif // FIX_ISSUE_PERFECT
 }
 
-void test_is_prime() noexcept
+void test_is_prime() noexcept //!OCLINT indeed, tests can be long
 {
-  #define FIX_ISSUE_IS_PRIME
-  #ifdef FIX_ISSUE_IS_PRIME
   assert(!is_prime(-2));
   assert(!is_prime(-1));
   assert(!is_prime(0));
   assert(!is_prime(1));
   assert(is_prime(2));
-  //assert(!is_prime(3));
+  assert(is_prime(3));
   assert(!is_prime(4));
   assert(is_prime(5));
   assert(!is_prime(6));
@@ -419,7 +417,6 @@ void test_is_prime() noexcept
   assert(!is_prime(9));
   assert(!is_prime(10));
   assert(is_prime(11));
-  #endif // FIX_ISSUE_IS_PRIME
 }
 
 void test_roman_to_int() noexcept
