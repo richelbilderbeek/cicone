@@ -51,8 +51,13 @@ the witch gave a red apple to Snow White
 
 This story involves some dwarves.
 
+<<<<<<< HEAD
 
 Snow White lived with the dwarves.
 
 
 and they lived happily ever after.
+=======
+and they lived happily until the next merge conflict.
+
+>>>>>>> 4720eea9a4e4d6ab75948f57f5d25de28a971255
