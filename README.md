@@ -11,13 +11,6 @@ Branch|[Travis](https://travis-ci.org)|[Codecov](https://www.codecov.io)
 `Apu` |[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=Apu)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=Apu)](https://codecov.io/github/richelbilderbeek/cicone/branch/Apu)
 `christoph`|[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=christoph)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=christoph)](https://codecov.io/github/richelbilderbeek/cicone/branch/christoph)
 `ellyjet`|[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=ellyjet)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=ellyjet)](https://codecov.io/github/richelbilderbeek/cicone/branch/ellyjet)
-
-
-
-Topic branches, ordered alphabetically:
-
-Branch|[Travis](https://travis-ci.org)|[Codecov](https://www.codecov.io)
----|---|---
 `Apu` |[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=Apu)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=Apu)](https://codecov.io/github/richelbilderbeek/cicone/branch/Apu)
 `marina`|[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=marina)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=marina)](https://codecov.io/github/richelbilderbeek/cicone/branch/marina)
 `Magda` |[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=Magda)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=Magda)](https://codecov.io/github/richelbilderbeek/cicone/branch/Magda)
@@ -106,14 +99,13 @@ Snow White lived with the dwarves.
 
 and they lived happily until the next merge conflict.
 
-<<<<<<< HEAD
+
 and they lived happily until the next merge conflict (or they made their own branch).
-=======
+
 One day, there is a gay prince coming. He immediently didn't really find White attractive, but he really needed som love in his life.
 He thus made a move and slowly slowly they actually fell in love. So cute.
 
 Grumpy and Prince fought for Snow white's hand. Grumpy won the duel.
->>>>>>> dd4e8ed5fb231e91905e8fdb5adc8aaa9a853cd6
 
 
 and they lived happily until the next merge conflict.
