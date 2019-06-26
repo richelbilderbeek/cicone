@@ -41,11 +41,31 @@ to allow all beginners to get going easily.
 ## Summary of Snow White
 
 Once upon a time ...
+there was an average looking young men named White. He didn't know who his parents were, 
+so his surname was Snow. He got bullied a lot for that growing up, which only made him stronger.
 
-The witch gave Alan Turing an apple.
+
+The witch gave Alan Turing an apple. But he wished for a Linux.
+
 There lived a beautiful girl with her dad and jealous step-mother
 
 the witch gave a red apple to Snow White
+<<<<<<< HEAD
 The dwarves were working and singing in the mine.
+=======
+
+Snow White fell asleep for a thousand years
+
+>>>>>>> f213ff48687643ae24b77558edf76f66f93ce01a
 This story involves some dwarves.
+
+<<<<<<< HEAD
+
+Snow White lived with the dwarves.
+
+
 and they lived happily ever after.
+=======
+and they lived happily until the next merge conflict.
+
+>>>>>>> 4720eea9a4e4d6ab75948f57f5d25de28a971255
