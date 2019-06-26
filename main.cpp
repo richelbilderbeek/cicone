@@ -1,13 +1,20 @@
 #include <cassert>
 #include <stdexcept>
 #include <vector>
+#include <numeric>
 
 //------------------------------------------------------------------------------
 // Code
 //------------------------------------------------------------------------------
-std::string bool_to_coin(const bool b) noexcept
+
+/// Function to convert a boolean into a flipping coin result (head/tail)
+/// @param isHeads is the boolean to be converted
+/// @return Heads or tails, the result of the coin flipping
+std::string bool_to_coin(const bool isHeads) noexcept
 {
-  return std::string(b ? 1 : 2, 'x'); //STUB
+
+  return isHeads ? "heads" : "tails";
+	
 }
 
 /// Calculate the proper divisors of x.
@@ -17,13 +24,12 @@ std::string bool_to_coin(const bool b) noexcept
 std::vector<int> calc_proper_divs(const int x) noexcept
 {
   std::vector<int> divs(1, x); //STUB
-  for (size_t i = 0; i < divs.size(); i++)
+ /* for (size_t i = 0; i < divs.size(); i++)
   {
-	  if (!x%divs[i] == 0) divs.erase(i);
-  }
+          if (!x%divs[i] == 0) divs.erase(divs.begin()+i);
+  }*/
   return divs;
 }
-
 
 /// Calculate the sum of the elements in the vector
 /// @param v a vector
@@ -31,7 +37,9 @@ std::vector<int> calc_proper_divs(const int x) noexcept
 ///   zero if the vector is empty
 int calc_sum(const std::vector<int>& v) noexcept
 {
-  return static_cast<int>(v.size()); //STUB
+	
+  return std::accumulate(v.begin(), v.end(), 0);
+  
 }
 
 
@@ -94,7 +102,7 @@ bool is_even(const int x) noexcept
 /// @return true if x is an odd number
 bool is_odd(const int x) noexcept
 {
-  return x == 314; //STUB
+  return x % 2;
 }
 
 /// Determine if x is a perfect number
@@ -124,7 +132,17 @@ bool is_perfect(const int x) noexcept
 /// @return true if x is a prime number
 bool is_prime(const int x) noexcept
 {
-  return x == 314; //STUB
+    //check for prime number
+    int j = 0;
+       for (int i = 1; i <= x; i++)
+       {
+          if ((x % i) == 0)
+          {
+             j++;
+          }
+       }
+
+       return j == 2;
 }
 
 /// Returns the Roman value of s as an integer,
@@ -371,8 +389,6 @@ void test_is_even() noexcept
 
 void test_is_odd() noexcept
 {
-  //#define FIX_ISSUE_IS_ODD
-  #ifdef FIX_ISSUE_IS_ODD
   assert(is_odd(-3));
   assert(!is_odd(-2));
   assert(is_odd(-1));
@@ -380,7 +396,6 @@ void test_is_odd() noexcept
   assert(is_odd(1));
   assert(!is_odd(2));
   assert(is_odd(3));
-  #endif // FIX_ISSUE_IS_ODD
 }
 
 void test_is_perfect() noexcept
@@ -396,16 +411,14 @@ void test_is_perfect() noexcept
   assert(is_perfect(28));
 }
 
-void test_is_prime() noexcept
+void test_is_prime() noexcept //!OCLINT indeed, tests can be long
 {
-  //#define FIX_ISSUE_IS_PRIME
-  #ifdef FIX_ISSUE_IS_PRIME
   assert(!is_prime(-2));
   assert(!is_prime(-1));
   assert(!is_prime(0));
   assert(!is_prime(1));
   assert(is_prime(2));
-  assert(!is_prime(3));
+  assert(is_prime(3));
   assert(!is_prime(4));
   assert(is_prime(5));
   assert(!is_prime(6));
@@ -414,7 +427,6 @@ void test_is_prime() noexcept
   assert(!is_prime(9));
   assert(!is_prime(10));
   assert(is_prime(11));
-  #endif // FIX_ISSUE_IS_PRIME
 }
 
 void test_roman_to_int() noexcept
@@ -480,5 +492,6 @@ void test() noexcept
 
 int main()
 {
+  // assert(1 == 2);
   test();
 }
