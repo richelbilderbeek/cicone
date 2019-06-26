@@ -16,12 +16,8 @@ Topic branches, ordered alphabetically:
 
 Branch|[Travis](https://travis-ci.org)|[Codecov](https://www.codecov.io)
 ---|---|---
-<<<<<<< HEAD
 `theo`|[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=theo)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=theo)](https://codecov.io/github/richelbilderbeek/cicone/branch/theo)
-=======
 
-
->>>>>>> develop
 
 ## FAQ
 
