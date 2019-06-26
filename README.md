@@ -14,7 +14,7 @@ Topic branches, ordered alphabetically:
 Branch|[Travis](https://travis-ci.org)|[Codecov](https://www.codecov.io)
 ---|---|---
 `...` |...|...
-`pratik` |[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=truus)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=truus)](https://codecov.io/github/richelbilderbeek/cicone/branch/pratik)
+`pratik` |[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=pratik)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=pratik)](https://codecov.io/github/richelbilderbeek/cicone/branch/pratik)
 
 ## FAQ
 
