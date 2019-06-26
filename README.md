@@ -72,7 +72,7 @@ and they lived happily ever after.
 
 
 One day, there is a gay prince coming. He immediently didn't really find White attractive, but he really needed som love in his life.
-He thus made a move and slowly slowly they actually fell in love.
+He thus made a move and slowly slowly they actually fell in love. So cute.
 
 and they lived happily ever after.
 
