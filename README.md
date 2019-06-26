@@ -45,7 +45,7 @@ there was an average looking young men named White. He didn't know who his paren
 so his surname was Snow. He got bullied a lot for that growing up, which only made him stronger.
 
 
-The witch gave Alan Turing an apple. But he wished for a Linux.
+The witch gave Alan Turing an apple. But he wished for a Linux. Then he died :(
 
 There lived a beautiful girl with her dad and jealous step-mother
 
