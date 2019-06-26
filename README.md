@@ -9,15 +9,24 @@ Branch|[Travis](https://travis-ci.org)|[Codecov](https://www.codecov.io)
 `master` |[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=master)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=master)](https://codecov.io/github/richelbilderbeek/cicone/branch/master)
 `develop`|[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=develop)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=develop)](https://codecov.io/github/richelbilderbeek/cicone/branch/develop)
 
-Topic branches, ordered alphabetically:
+Topic branches, no longer ordered alphabetically:
 
 Branch|[Travis](https://travis-ci.org)|[Codecov](https://www.codecov.io)
 ---|---|---
+`Apu` |[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=Apu)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=Apu)](https://codecov.io/github/richelbilderbeek/cicone/branch/Apu)
 `christoph`|[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=christoph)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=christoph)](https://codecov.io/github/richelbilderbeek/cicone/branch/christoph)
 `ellyjet`|[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=ellyjet)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=ellyjet)](https://codecov.io/github/richelbilderbeek/cicone/branch/ellyjet)
 `joris`|[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=joris)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=joris)](https://codecov.io/github/richelbilderbeek/cicone/branch/joris)
+`marina`|[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=marina)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=marina)](https://codecov.io/github/richelbilderbeek/cicone/branch/marina)
 `Magda` |[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=Magda)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=Magda)](https://codecov.io/github/richelbilderbeek/cicone/branch/Magda)
+`theo`|[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=theo)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=theo)](https://codecov.io/github/richelbilderbeek/cicone/branch/theo)
+`pedro`|[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=pedro)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=pedro)](https://codecov.io/github/richelbilderbeek/cicone/branch/pedro)
 `pratik` |[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=pratik)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=pratik)](https://codecov.io/github/richelbilderbeek/cicone/branch/pratik)
+`Stefano` |[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=pratik)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=pratik)](https://codecov.io/github/richelbilderbeek/cicone/branch/pratik)
+`theo`|[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=theo)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=theo)](https://codecov.io/github/richelbilderbeek/cicone/branch/theo)
+`raph`|[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=raph)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=raph)](https://codecov.io/github/richelbilderbeek/cicone/branch/raph)
+`christoph`|[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=christoph)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=christoph)](https://codecov.io/github/richelbilderbeek/cicone/branch/christoph)
+`ellyjet`|[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=ellyjet)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=ellyjet)](https://codecov.io/github/richelbilderbeek/cicone/branch/ellyjet)
 
 ## FAQ
 
@@ -50,34 +59,87 @@ Once upon a time ...
 there was an average looking young men named White. He didn't know who his parents were, 
 so his surname was Snow. He got bullied a lot for that growing up, which only made him stronger.
 
-The witch gave Alan Turing an apple. But he wished for a Linux.
+His best friend was Anan Turning. They met at the military, bonded over pints of cider (cause the loved
+fruits and at the same time they were responsible). 
 
-There lived a beautiful girl with her dad and jealous step-mother
 
+<<<<<<< HEAD
 
 the witch gave a red apple to Snow White
-The dwarves were working and singing in the mine.
-the witch gave a red apple to Snow White. Actually there was a full basket of fruit.
+=======
+The witch gave Alan Turing an apple. But he wished for a Linux. Then he died :(
 
-So then, the witch gave a red apple to Snow White. Actually there was a full basket of fruit.
-No, it was a comb.
+
+There lived a beautiful girl with her dad and jealous step-mother
+The witch gave Alan Turing an apple. But he wished for a Linux. Then he die
+
+the witch gave a red apple to Snow White
 
 Snow White fell asleep for a thousand years
-
 
 This story involves some dwarves.
 Grumpy was in a particularly foul mood due to problems with command prompt
 
+The dwarves were working and singing in the mine.
+the witch gave a red apple to Snow White. Actually there was a full basket of fruit.
+
+Snow White fell asleep for a thousand years
+This story involves some dwarves.
+Grumpy was in a particularly foul mood due to problems with command prompt
+Snow White lived with the dwarves.
+Dwarves cook every day, snow white eats a lot and she becomes very fat.
+and they lived happily ever after.
+the witch gave a red apple to Snow White
+The dwarves were working and singing in the mine.
+the witch gave a red apple to Snow White. Actually there was a full basket of fruit.
+>>>>>>> 431e84c0e043a991619cdcef71f3e8e182b6c0b6
+The dwarves were working and singing in the mine.
+the witch gave a red apple to Snow White. Actually there was a full basket of fruit.
+So then, the witch gave a red apple to Snow White. Actually there was a full basket of fruit.
+No, it was a comb.
+Snow White fell asleep for a thousand years
+
+
+So then, the witch gave a red apple to Snow White. Actually there was a full basket of fruit.
+No, it was a comb.
+
+<<<<<<< HEAD
+Snow White fell asleep for a thousand years
+=======
+
+This story involves some dwarves.
+Grumpy was in a particularly foul mood due to problems with command prompt
 Snow White lived with the dwarves. Being an expert programmer herself, she could help turn Grumpy's frown upside down.
-
-and they lived happily ever after.
-
 One day, there is a prince coming. Grumpy and Prince fought for Snow white's hand. Grumpy won the duel.
+Snow White lived with the dwarves.
 
-and they lived happily ever after.
+and they lived happily until the next merge conflict.
+
+and they lived happily until the next merge conflict (or they made their own branch).
+
+One day, there is a gay prince coming. He immediently didn't really find White attractive, but he really needed som love in his life.
+He thus made a move and slowly slowly they actually fell in love. So cute.
+
+Grumpy and Prince fought for Snow white's hand. Grumpy won the duel.
+>>>>>>> 431e84c0e043a991619cdcef71f3e8e182b6c0b6
+
+
+and they lived happily until the next merge conflict.
+
+
+and they lived happily until the next merge conflict (or they made their own branch).
+
+
+Disclaimer:Evil enchantments were used to create this repository.
 
 
 Snow White lived with the dwarves.
-The dwarves worked in the mines
-
 and they lived happily until the next merge conflict.
+
+
+and they lived happily until the next merge conflict (or they made their own branch).
+
+Disclaimer:Evil enchantments were used to create this repository.
+
+And an awesome line was added by an awesome contributor, who lived very happy and finished his PhD on time and without stress.
+I hate you.
