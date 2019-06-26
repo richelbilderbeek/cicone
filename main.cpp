@@ -14,6 +14,7 @@ std::string bool_to_coin(const bool b) noexcept
 /// @param x a value to calculate the proper divisors of.
 /// @return the proper divisors of x with the same sign as x.
 /// Will be empty if x is zero
+/*
 std::vector<int> calc_proper_divs(const int x) noexcept
 {
   std::vector<int> divs(1, x); //STUB
@@ -23,7 +24,7 @@ std::vector<int> calc_proper_divs(const int x) noexcept
   }
   return divs;
 }
-
+*/
 
 /// Calculate the sum of the elements in the vector
 /// @param v a vector
@@ -94,7 +95,7 @@ bool is_even(const int x) noexcept
 /// @return true if x is an odd number
 bool is_odd(const int x) noexcept
 {
-  return x == 314; //STUB
+  return x % 2;
 }
 
 /// Determine if x is a perfect number
@@ -357,8 +358,6 @@ void test_is_even() noexcept
 
 void test_is_odd() noexcept
 {
-  //#define FIX_ISSUE_IS_ODD
-  #ifdef FIX_ISSUE_IS_ODD
   assert(is_odd(-3));
   assert(!is_odd(-2));
   assert(is_odd(-1));
@@ -366,7 +365,6 @@ void test_is_odd() noexcept
   assert(is_odd(1));
   assert(!is_odd(2));
   assert(is_odd(3));
-  #endif // FIX_ISSUE_IS_ODD
 }
 
 void test_is_perfect() noexcept
