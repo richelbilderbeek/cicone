@@ -50,4 +50,6 @@ the witch gave a red apple to Snow White
 Snow White fell asleep for a thousand years
 
 This story involves some dwarves.
-and they lived happily ever after.
+
+and they lived happily until the next merge conflict.
+
