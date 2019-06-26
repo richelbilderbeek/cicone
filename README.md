@@ -46,4 +46,6 @@ the witch gave a red apple to Snow White
 
 This story involves some dwarves.
 
+Grumpy was a particularly cute dwarf.
+
 and they lived happily ever after.
