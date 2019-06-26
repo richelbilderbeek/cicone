@@ -46,4 +46,4 @@ the witch gave a red apple to Snow White
 
 This story involves some dwarves.
 
-and they lived happily ever after.
+and they lived happily until the next merge conflict.
