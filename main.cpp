@@ -1,6 +1,7 @@
 #include <cassert>
 #include <stdexcept>
 #include <vector>
+#include <numeric>
 
 //------------------------------------------------------------------------------
 // Code
@@ -36,7 +37,9 @@ std::vector<int> calc_proper_divs(const int x) noexcept
 ///   zero if the vector is empty
 int calc_sum(const std::vector<int>& v) noexcept
 {
-  return static_cast<int>(v.size()); //STUB
+	
+  return std::accumulate(v.begin(), v.end(), 0);
+  
 }
 
 
