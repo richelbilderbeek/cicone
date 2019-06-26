@@ -50,6 +50,7 @@ The witch gave Alan Turing an apple. But he wished for a Linux.
 There lived a beautiful girl with her dad and jealous step-mother
 
 the witch gave a red apple to Snow White. Actually there was a full basket of fruit.
+No, it was a comb.
 
 Snow White fell asleep for a thousand years
 
