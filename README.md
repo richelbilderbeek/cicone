@@ -8,6 +8,7 @@ Branch|[Travis](https://travis-ci.org)|[Codecov](https://www.codecov.io)
 ---|---|---
 `master` |[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=master)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=master)](https://codecov.io/github/richelbilderbeek/cicone/branch/master)
 `develop`|[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=develop)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=develop)](https://codecov.io/github/richelbilderbeek/cicone/branch/develop)
+`ellyjet`|[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=ellyjet)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=ellyjet)](https://codecov.io/github/richelbilderbeek/cicone/branch/ellyjet)
 
 Topic branches, ordered alphabetically:
 
@@ -44,12 +45,13 @@ Once upon a time ...
 there was an average looking young men named White. He didn't know who his parents were, 
 so his surname was Snow. He got bullied a lot for that growing up, which only made him stronger.
 
+There lived a beautiful girl with her dad and jealous step-mother
 
 The witch gave Alan Turing an apple. But he wished for a Linux.
 
 There lived a beautiful girl with her dad and jealous step-mother
 
-the witch gave a red apple to Snow White. Actually there was a full basket of fruit.
+So then, the witch gave a red apple to Snow White. Actually there was a full basket of fruit.
 
 Snow White fell asleep for a thousand years
 
