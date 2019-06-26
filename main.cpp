@@ -19,7 +19,7 @@ std::vector<int> calc_proper_divs(const int x) noexcept
   std::vector<int> divs(1, x); //STUB
   for (size_t i = 0; i < divs.size(); i++)
   {
-	  if (!x%divs[i] == 0) divs.erase(i);
+	  if (!x%divs[i] == 0) divs.erase(divs.begin()+i);
   }
   return divs;
 }
