@@ -20,17 +20,15 @@ std::string bool_to_coin(const bool isHeads) noexcept
 /// @param x a value to calculate the proper divisors of.
 /// @return the proper divisors of x with the same sign as x.
 /// Will be empty if x is zero
-/*
 std::vector<int> calc_proper_divs(const int x) noexcept
 {
   std::vector<int> divs(1, x); //STUB
  /* for (size_t i = 0; i < divs.size(); i++)
   {
-	  if (!x%divs[i] == 0) divs.erase(divs.begin()+i);
+          if (!x%divs[i] == 0) divs.erase(divs.begin()+i);
   }*/
   return divs;
 }
-*/
 
 /// Calculate the sum of the elements in the vector
 /// @param v a vector
