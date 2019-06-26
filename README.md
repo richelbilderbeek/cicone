@@ -13,7 +13,8 @@ Topic branches, ordered alphabetically:
 
 Branch|[Travis](https://travis-ci.org)|[Codecov](https://www.codecov.io)
 ---|---|---
-`...` |...|...
+`Magda` |[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=Magda)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=Magda)](https://codecov.io/github/richelbilderbeek/cicone/branch/Magda)
+
 
 ## FAQ
 
@@ -50,6 +51,7 @@ The witch gave Alan Turing an apple. But he wished for a Linux.
 There lived a beautiful girl with her dad and jealous step-mother
 
 the witch gave a red apple to Snow White. Actually there was a full basket of fruit.
+
 No, it was a comb.
 
 Snow White fell asleep for a thousand years
@@ -57,4 +59,5 @@ Snow White fell asleep for a thousand years
 This story involves some dwarves.
 
 Snow White lived with the dwarves.
-and they lived happily until the next merge conflict.
+
+And they lived happily until the next merge conflict.
