@@ -42,5 +42,6 @@ to allow all beginners to get going easily.
 
 Once upon a time ...
 
+Snow White fell asleep for a thousand years
 
 and they lived happily ever after.
