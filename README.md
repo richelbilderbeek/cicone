@@ -17,7 +17,8 @@ Topic branches, ordered alphabetically:
 Branch|[Travis](https://travis-ci.org)|[Codecov](https://www.codecov.io)
 ---|---|---
 `theo`|[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=theo)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=theo)](https://codecov.io/github/richelbilderbeek/cicone/branch/theo)
-
+`...` |...|...
+`pratik` |[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=pratik)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=pratik)](https://codecov.io/github/richelbilderbeek/cicone/branch/pratik)
 
 ## FAQ
 
@@ -44,9 +45,12 @@ to allow all beginners to get going easily.
 
 ## Summary of Snow White
 
+This story is **MOSTLY** about dwarves...
+
 Once upon a time ...
 there was an average looking young men named White. He didn't know who his parents were, 
 so his surname was Snow. He got bullied a lot for that growing up, which only made him stronger.
+
 
 There lived a beautiful girl with her dad and jealous step-mother
 
