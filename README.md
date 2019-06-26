@@ -41,8 +41,22 @@ to allow all beginners to get going easily.
 
 ## Summary of Snow White
 
-Once upon a time ...
+This story is **MOSTLY** about dwarves...
 
-This story has to do with some dwarves.
+Once upon a time ...
+there was an average looking young men named White. He didn't know who his parents were, 
+so his surname was Snow. He got bullied a lot for that growing up, which only made him stronger.
 
 and they lived happily ever after.
+
+The witch gave Alan Turing an apple. But he wished for a Linux.
+
+There lived a beautiful girl with her dad and jealous step-mother
+
+the witch gave a red apple to Snow White. Actually there was a full basket of fruit.
+
+Snow White fell asleep for a thousand years
+
+This story involves some dwarves.
+
+and they lived happily until the next merge conflict.
