@@ -49,8 +49,11 @@ to allow all beginners to get going easily.
 
 ## Summary of Snow White
 
+### Abstract
+
 This story is **MOSTLY** about dwarves...
 
+### Introduction
 Once upon a time ...
 there was an average looking young men named White. He didn't know who his parents were, 
 so his surname was Snow. He got bullied a lot for that growing up, which only made him stronger.
@@ -61,6 +64,7 @@ fruits and at the same time they were responsible).
 
 The witch gave Alan Turing an apple. But he wished for a Linux. Then he died :(
 
+### Methods
 
 There lived a beautiful girl with her dad and jealous step-mother
 The witch gave Alan Turing an apple. But he wished for a Linux. Then he die
@@ -74,6 +78,8 @@ Grumpy was in a particularly foul mood due to problems with command prompt
 
 The dwarves were working and singing in the mine.
 the witch gave a red apple to Snow White. Actually there was a full basket of fruit.
+
+#### Results
 
 Snow White fell asleep for a thousand years
 This story involves some dwarves.
@@ -94,6 +100,7 @@ Snow White fell asleep for a thousand years
 So then, the witch gave a red apple to Snow White. Actually there was a full basket of fruit.
 No, it was a comb.
 
+### Discussion
 
 This story involves some dwarves.
 Grumpy was in a particularly foul mood due to problems with command prompt
@@ -103,15 +110,12 @@ Snow White lived with the dwarves.
 
 and they lived happily until the next merge conflict.
 
-<<<<<<< HEAD
 and they lived happily until the next merge conflict (or they made their own branch).
-=======
+
 One day, there is a gay prince coming. He immediently didn't really find White attractive, but he really needed som love in his life.
 He thus made a move and slowly slowly they actually fell in love. So cute.
 
 Grumpy and Prince fought for Snow white's hand. Grumpy won the duel.
->>>>>>> dd4e8ed5fb231e91905e8fdb5adc8aaa9a853cd6
-
 
 and they lived happily until the next merge conflict.
 
