@@ -42,5 +42,6 @@ to allow all beginners to get going easily.
 
 Once upon a time ...
 
+the witch gave a red apple to Snow White
 
 and they lived happily ever after.
