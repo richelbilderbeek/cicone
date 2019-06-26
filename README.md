@@ -40,8 +40,9 @@ to allow all beginners to get going easily.
 
 ## Summary of Snow White
 
-Once upon a time ...
+Once before a long time ...
 
-the witch gave a red apple to Snow White
 
-and they lived happily ever after.
+the witch gave a red apple to the sister of Snow White
+
+and they lived happily ever and ever after.
