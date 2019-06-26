@@ -98,7 +98,21 @@ bool is_odd(const int x) noexcept
 /// @return true if x is a perfect number
 bool is_perfect(const int x) noexcept
 {
-  return x == 314; //STUB
+  std::vector<int> factors;
+
+  for (int i = 1; i < x; ++i) {
+    if (x % i) {
+      factors.push_back(i);
+    }
+  }
+
+  int sum = 0;
+
+  for (int i = 0; i < factors.size(); ++i) {
+    sum += factors[i];
+  }
+
+  return x == sum; //STUB
 }
 
 /// Determine if x is a prime number
@@ -367,8 +381,6 @@ void test_is_odd() noexcept
 
 void test_is_perfect() noexcept
 {
-  //#define FIX_ISSUE_IS_PERFECT
-  #ifdef FIX_ISSUE_PERFECT
   assert(!is_perfect(-1));
   assert(!is_perfect(0));
   assert(!is_perfect(1));
@@ -378,7 +390,6 @@ void test_is_perfect() noexcept
   assert(!is_perfect(10));
   assert(!is_perfect(16));
   assert(is_perfect(24));
-  #endif // FIX_ISSUE_PERFECT
 }
 
 void test_is_prime() noexcept
