@@ -42,14 +42,25 @@ to allow all beginners to get going easily.
 
 Once upon a time ...
 
+
 The witch gave Alan Turing an apple. But he wished for a Linux.
+
 There lived a beautiful girl with her dad and jealous step-mother
 
 the witch gave a red apple to Snow White. Actually there was a full basket of fruit.
 
+Snow White fell asleep for a thousand years
+
 This story involves some dwarves.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+
+Snow White lived with the dwarves.
+
+
+>>>>>>> a03d90f70b324aca75053a39889c879d3a9195fe
 and they lived happily ever after.
 =======
 and they lived happily until the next merge conflict.
