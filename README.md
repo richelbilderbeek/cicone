@@ -11,18 +11,7 @@ Branch|[Travis](https://travis-ci.org)|[Codecov](https://www.codecov.io)
 `christoph`|[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=christoph)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=christoph)](https://codecov.io/github/richelbilderbeek/cicone/branch/christoph)
 `ellyjet`|[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=ellyjet)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=ellyjet)](https://codecov.io/github/richelbilderbeek/cicone/branch/ellyjet)
 `Magda` |[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=Magda)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=Magda)](https://codecov.io/github/richelbilderbeek/cicone/branch/Magda)
-
-Topic branches, ordered alphabetically:
-
-Branch|[Travis](https://travis-ci.org)|[Codecov](https://www.codecov.io)
----|---|---
-<<<<<<< HEAD
-`...` |...|...
 `pratik` |[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=pratik)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=pratik)](https://codecov.io/github/richelbilderbeek/cicone/branch/pratik)
-=======
-
-
->>>>>>> 24477de999796530d8f8c08c53cd23cd7e1a3a4c
 
 ## FAQ
 
