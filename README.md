@@ -44,8 +44,10 @@ Once upon a time ...
 there was an average looking young men named White. He didn't know who his parents were, 
 so his surname was Snow. He got bullied a lot for that growing up, which only made him stronger.
 
+The witch gave Alan Turing an apple. But he wished for a Linux.
+There lived a beautiful girl with her dad and jealous step-mother
+
 the witch gave a red apple to Snow White
 
 This story involves some dwarves.
-
 and they lived happily ever after.
