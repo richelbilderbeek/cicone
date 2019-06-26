@@ -11,8 +11,16 @@ Branch|[Travis](https://travis-ci.org)|[Codecov](https://www.codecov.io)
 `christoph`|[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=christoph)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=christoph)](https://codecov.io/github/richelbilderbeek/cicone/branch/christoph)
 `ellyjet`|[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=ellyjet)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=ellyjet)](https://codecov.io/github/richelbilderbeek/cicone/branch/ellyjet)
 `Magda` |[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=Magda)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=Magda)](https://codecov.io/github/richelbilderbeek/cicone/branch/Magda)
+
 `theo`|[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=theo)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=theo)](https://codecov.io/github/richelbilderbeek/cicone/branch/theo)
 `pratik` |[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=pratik)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=pratik)](https://codecov.io/github/richelbilderbeek/cicone/branch/pratik)
+
+`Apu` |[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=Apu)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=Apu)](https://codecov.io/github/richelbilderbeek/cicone/branch/Apu)
+
+
+
+
+
 
 
 
@@ -50,7 +58,7 @@ so his surname was Snow. He got bullied a lot for that growing up, which only ma
 
 There lived a beautiful girl with her dad and jealous step-mother
 
-The witch gave Alan Turing an apple. But he wished for a Linux. Then he died :(
+The witch gave Alan Turing an apple. But he wished for a Linux. Then he died
 
 There lived a beautiful girl with her dad and jealous step-mother
 
@@ -77,6 +85,7 @@ The dwarves were working and singing in the mine.
 
 the witch gave a red apple to Snow White. Actually there was a full basket of fruit.
 
+
 The dwarves were working and singing in the mine.
 the witch gave a red apple to Snow White. Actually there was a full basket of fruit.
 
@@ -85,6 +94,7 @@ No, it was a comb.
 
 Snow White fell asleep for a thousand years
 
+Snow White fell asleep for a thousand years
 This story involves some dwarves.
 Grumpy was in a particularly foul mood due to problems with command prompt
 
