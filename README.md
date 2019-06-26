@@ -73,3 +73,5 @@ and they lived happily ever after.
 
 Snow White lived with the dwarves.
 and they lived happily until the next merge conflict.
+
+Disclaimer:Evil enchantments were used to create this repository.
