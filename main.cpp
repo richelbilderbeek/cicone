@@ -5,9 +5,15 @@
 //------------------------------------------------------------------------------
 // Code
 //------------------------------------------------------------------------------
-std::string bool_to_coin(const bool b) noexcept
+
+/// Function to convert a boolean into a flipping coin result (head/tail)
+/// @param isHeads is the boolean to be converted
+/// @return Heads or tails, the result of the coin flipping
+std::string bool_to_coin(const bool isHeads) noexcept
 {
-  return std::string(b ? 1 : 2, 'x'); //STUB
+
+  return isHeads ? "heads" : "tails";
+	
 }
 
 /// Calculate the proper divisors of x.
@@ -18,10 +24,10 @@ std::string bool_to_coin(const bool b) noexcept
 std::vector<int> calc_proper_divs(const int x) noexcept
 {
   std::vector<int> divs(1, x); //STUB
-  for (size_t i = 0; i < divs.size(); i++)
+ /* for (size_t i = 0; i < divs.size(); i++)
   {
-	  if (!x%divs[i] == 0) divs.erase(i);
-  }
+	  if (!x%divs[i] == 0) divs.erase(divs.begin()+i);
+  }*/
   return divs;
 }
 */
