@@ -54,4 +54,3 @@ This story involves some dwarves.
 The dwarves worked in the mines
 
 and they lived happily until the next merge conflict.
-
