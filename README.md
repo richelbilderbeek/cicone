@@ -42,6 +42,14 @@ to allow all beginners to get going easily.
 
 Once upon a time ...
 
+
+=======
+There lived a beautiful girl with her dad and jealous step-mother
+
+the witch gave a red apple to Snow White
+
+This story involves some dwarves.
+
 Snow White lived with the dwarves.
 
 and they lived happily ever after.
