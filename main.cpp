@@ -1,6 +1,7 @@
 #include <cassert>
 #include <stdexcept>
 #include <vector>
+#include <numeric>
 
 //------------------------------------------------------------------------------
 // Code
