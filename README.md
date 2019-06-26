@@ -49,29 +49,24 @@ The witch gave Alan Turing an apple. But he wished for a Linux.
 
 There lived a beautiful girl with her dad and jealous step-mother
 
-<<<<<<< HEAD
+
 the witch gave a red apple to Snow White
-<<<<<<< HEAD
+
 The dwarves were working and singing in the mine.
-=======
-=======
+
 the witch gave a red apple to Snow White. Actually there was a full basket of fruit.
->>>>>>> ad7741b83c385f4ea2f5ff9a6db9e0751529c624
 
 Snow White fell asleep for a thousand years
 
->>>>>>> f213ff48687643ae24b77558edf76f66f93ce01a
+
 This story involves some dwarves.
 Grumpy was in a particularly foul mood due to problems with command prompt
 
-
-
-Snow White lived with the dwarves.
+Snow White lived with the dwarves. Being an expert programmer herself, she could help turn Grumpy's frown upside down.
 
 and they lived happily ever after.
 
-
-One day, there is a prince coming.
+One day, there is a prince coming. Grumpy and Prince fought for Snow white's hand. Grumpy won the duel.
 
 and they lived happily ever after.
 
