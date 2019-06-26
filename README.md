@@ -7,7 +7,6 @@ Main branches:
 Branch|[Travis](https://travis-ci.org)|[Codecov](https://www.codecov.io)
 
 ---|---|---
-
 `master` |[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=master)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=master)](https://codecov.io/github/richelbilderbeek/cicone/branch/master)
 `develop`|[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=develop)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=develop)](https://codecov.io/github/richelbilderbeek/cicone/branch/develop)
 `Apu` |[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=Apu)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=Apu)](https://codecov.io/github/richelbilderbeek/cicone/branch/Apu)
@@ -62,7 +61,6 @@ His best friend was Anan Turning. They met at the military, bonded over pints of
 fruits and at the same time they were responsible). 
 
 
-
 The witch gave Alan Turing an apple. But he wished for a Linux. Then he died :(
 
 There lived a beautiful girl with her dad and jealous step-mother
@@ -79,7 +77,6 @@ the witch gave a red apple to Snow White. Actually there was a full basket of fr
 
 So then, the witch gave a red apple to Snow White. Actually there was a full basket of fruit.
 No, it was a comb.
-
 
 
 This story involves some dwarves.
@@ -108,3 +105,4 @@ Disclaimer:Evil enchantments were used to create this repository.
 And an awesome line was added by an awesome contributor, who lived very happy and finished his PhD on time and without stress.
 I hate you.
 
+---
