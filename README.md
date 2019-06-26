@@ -60,7 +60,9 @@ Snow White fell asleep for a thousand years
 This story involves some dwarves.
 Grumpy was in a particularly foul mood due to problems with command prompt
 
-Snow White lived with the dwarves.Dwarves cook every day.
+Snow White lived with the dwarves.
+
+Dwarves cook every day, snow white eats a lot and she becomes very fat.
 
 and they lived happily ever after.
 
