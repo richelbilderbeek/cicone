@@ -13,7 +13,7 @@ Topic branches, ordered alphabetically:
 
 Branch|[Travis](https://travis-ci.org)|[Codecov](https://www.codecov.io)
 ---|---|---
-`...` |...|...
+`joris`|[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=joris)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=joris)](https://codecov.io/github/richelbilderbeek/cicone/branch/joris)
 
 ## FAQ
 
