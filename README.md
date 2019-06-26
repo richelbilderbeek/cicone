@@ -98,9 +98,22 @@ and they lived happily until the next merge conflict (or they made their own bra
 
 and they lived happily until the next merge conflict.
 
+<<<<<<< HEAD
 
 and they lived happily until the next merge conflict (or they made their own branch).
 
 
 Disclaimer:Evil enchantments were used to create this repository.
 
+=======
+Snow White lived with the dwarves.
+and they lived happily until the next merge conflict.
+
+
+and they lived happily until the next merge conflict (or they made their own branch).
+
+Disclaimer:Evil enchantments were used to create this repository.
+
+And an awesome line was added by an awesome contributor, who lived very happy and finished his PhD on time and without stress.
+
+>>>>>>> 75cbb78babef361a937ad7b6739e8fe3290a53fd
