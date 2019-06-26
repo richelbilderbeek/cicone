@@ -21,14 +21,14 @@ Branch|[![Travis CI logo](pics/TravisCI.png)](https://travis-ci.org)|[![Codecov 
 
 Name     |Status
 ---------|------
-Apu      |CI
+Apu      |OK
 Christoph|OK
 Emiliano |CI
 Joris    |OK
 Magdalena|OK
 Marina   |OK
-Matteo   |CI
-Pedro    |CI
+Matteo   |OK
+Pedro    |OK
 Pratik   |OK
 Raphael  |OK
 Théo     |OK
