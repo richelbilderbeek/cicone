@@ -5,6 +5,7 @@ Lesson 1 of [collaboration_in_cpp](https://github.com/richelbilderbeek/collabora
 Main branches:
 
 Branch|[Travis](https://travis-ci.org)|[Codecov](https://www.codecov.io)
+
 `master` |[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=master)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=master)](https://codecov.io/github/richelbilderbeek/cicone/branch/master)
 `develop`|[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=develop)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=develop)](https://codecov.io/github/richelbilderbeek/cicone/branch/develop)
 `Apu` |[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=Apu)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=Apu)](https://codecov.io/github/richelbilderbeek/cicone/branch/Apu)
@@ -15,9 +16,6 @@ Branch|[Travis](https://travis-ci.org)|[Codecov](https://www.codecov.io)
 `pedro`|[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=pedro)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=pedro)](https://codecov.io/github/richelbilderbeek/cicone/branch/pedro)
 `pratik` |[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=pratik)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=pratik)](https://codecov.io/github/richelbilderbeek/cicone/branch/pratik)
 `theo`|[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=theo)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=theo)](https://codecov.io/github/richelbilderbeek/cicone/branch/theo)
-
-
-
 
 ## FAQ
 
@@ -80,10 +78,7 @@ Snow White fell asleep for a thousand years
 So then, the witch gave a red apple to Snow White. Actually there was a full basket of fruit.
 No, it was a comb.
 
-
-
 Snow White fell asleep for a thousand years
-
 
 This story involves some dwarves.
 Grumpy was in a particularly foul mood due to problems with command prompt
@@ -98,14 +93,13 @@ and they lived happily until the next merge conflict (or they made their own bra
 
 and they lived happily until the next merge conflict.
 
-<<<<<<< HEAD
 
 and they lived happily until the next merge conflict (or they made their own branch).
 
 
 Disclaimer:Evil enchantments were used to create this repository.
 
-=======
+
 Snow White lived with the dwarves.
 and they lived happily until the next merge conflict.
 
@@ -116,4 +110,4 @@ Disclaimer:Evil enchantments were used to create this repository.
 
 And an awesome line was added by an awesome contributor, who lived very happy and finished his PhD on time and without stress.
 
->>>>>>> 75cbb78babef361a937ad7b6739e8fe3290a53fd
+
