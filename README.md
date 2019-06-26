@@ -11,7 +11,14 @@ Branch|[Travis](https://travis-ci.org)|[Codecov](https://www.codecov.io)
 `christoph`|[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=christoph)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=christoph)](https://codecov.io/github/richelbilderbeek/cicone/branch/christoph)
 `ellyjet`|[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=ellyjet)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=ellyjet)](https://codecov.io/github/richelbilderbeek/cicone/branch/ellyjet)
 `Magda` |[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=Magda)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=Magda)](https://codecov.io/github/richelbilderbeek/cicone/branch/Magda)
+
 `pratik` |[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=pratik)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=pratik)](https://codecov.io/github/richelbilderbeek/cicone/branch/pratik)
+`Apu` |[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=Apu)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=Apu)](https://codecov.io/github/richelbilderbeek/cicone/branch/Apu)
+
+
+
+
+
 
 ## FAQ
 
@@ -48,7 +55,7 @@ The witch gave Alan Turing an apple. But he wished for a Linux.
 
 There lived a beautiful girl with her dad and jealous step-mother
 
-<<<<<<< HEAD
+
 
 
 the witch gave a red apple to Snow White
@@ -57,7 +64,7 @@ The dwarves were working and singing in the mine.
 
 the witch gave a red apple to Snow White. Actually there was a full basket of fruit.
 
-=======
+
 The dwarves were working and singing in the mine.
 the witch gave a red apple to Snow White. Actually there was a full basket of fruit.
 
@@ -68,8 +75,6 @@ No, it was a comb.
 
 Snow White fell asleep for a thousand years
 
-
-=======
 
 Snow White fell asleep for a thousand years
 
