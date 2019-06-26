@@ -7,7 +7,6 @@ Main branches:
 Branch|[Travis](https://travis-ci.org)|[Codecov](https://www.codecov.io)
 
 ---|---|---
-
 `master` |[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=master)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=master)](https://codecov.io/github/richelbilderbeek/cicone/branch/master)
 `develop`|[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=develop)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=develop)](https://codecov.io/github/richelbilderbeek/cicone/branch/develop)
 `Apu` |[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=Apu)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=Apu)](https://codecov.io/github/richelbilderbeek/cicone/branch/Apu)
@@ -17,9 +16,6 @@ Branch|[Travis](https://travis-ci.org)|[Codecov](https://www.codecov.io)
 `pedro`|[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=pedro)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=pedro)](https://codecov.io/github/richelbilderbeek/cicone/branch/pedro)
 `pratik` |[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=pratik)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=pratik)](https://codecov.io/github/richelbilderbeek/cicone/branch/pratik)
 `theo`|[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=theo)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=theo)](https://codecov.io/github/richelbilderbeek/cicone/branch/theo)
-
-
-
 
 ## FAQ
 
@@ -52,10 +48,6 @@ Once upon a time ...
 there was an average looking young men named White. He didn't know who his parents were, 
 so his surname was Snow. He got bullied a lot for that growing up, which only made him stronger.
 
-
-
-
-
 The witch gave Alan Turing an apple. But he wished for a Linux. Then he died :(
 
 There lived a beautiful girl with her dad and jealous step-mother
@@ -68,11 +60,7 @@ the witch gave a red apple to Snow White. Actually there was a full basket of fr
 So then, the witch gave a red apple to Snow White. Actually there was a full basket of fruit.
 No, it was a comb.
 
-
-
 Snow White fell asleep for a thousand years
-
-
 
 This story involves some dwarves.
 Grumpy was in a particularly foul mood due to problems with command prompt
@@ -94,4 +82,5 @@ and they lived happily until the next merge conflict (or they made their own bra
 
 
 Disclaimer:Evil enchantments were used to create this repository.
-=======
+
+---
