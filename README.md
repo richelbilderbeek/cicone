@@ -73,3 +73,5 @@ and they lived happily ever after.
 
 Snow White lived with the dwarves.
 and they lived happily until the next merge conflict.
+
+No dragons were harmed or mistreated in the writing of this GitHub fairy tale.
