@@ -17,6 +17,16 @@ Topic branches, ordered alphabetically:
 Branch|[Travis](https://travis-ci.org)|[Codecov](https://www.codecov.io)
 ---|---|---
 `Magda` |[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=Magda)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=Magda)](https://codecov.io/github/richelbilderbeek/cicone/branch/Magda)
+<<<<<<< HEAD
+
+Topic branches, ordered alphabetically:
+
+Branch|[Travis](https://travis-ci.org)|[Codecov](https://www.codecov.io)
+---|---|---
+`theo`|[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=theo)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=theo)](https://codecov.io/github/richelbilderbeek/cicone/branch/theo)
+`...` |...|...
+=======
+>>>>>>> 4c03cc19f119f67ffb5803d18edcdfd9e41a040a
 `pratik` |[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=pratik)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=pratik)](https://codecov.io/github/richelbilderbeek/cicone/branch/pratik)
 
 
@@ -52,7 +62,10 @@ Once upon a time ...
 there was an average looking young men named White. He didn't know who his parents were, 
 so his surname was Snow. He got bullied a lot for that growing up, which only made him stronger.
 
-The witch gave Alan Turing an apple. But he wished for a Linux.
+
+There lived a beautiful girl with her dad and jealous step-mother
+
+The witch gave Alan Turing an apple. But he wished for a Linux. Then he died :(
 
 There lived a beautiful girl with her dad and jealous step-mother
 
