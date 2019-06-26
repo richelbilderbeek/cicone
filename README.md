@@ -42,5 +42,6 @@ to allow all beginners to get going easily.
 
 Once upon a time ...
 
+This story involves some dwarves.
 
 and they lived happily ever after.
