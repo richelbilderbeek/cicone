@@ -20,7 +20,6 @@ Topic branches, ordered alphabetically:
 
 Branch|[Travis](https://travis-ci.org)|[Codecov](https://www.codecov.io)
 ---|---|---
-
 `marina`|[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=marina)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=marina)](https://codecov.io/github/richelbilderbeek/cicone/branch/marina)
 `Magda` |[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=Magda)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=Magda)](https://codecov.io/github/richelbilderbeek/cicone/branch/Magda)
 `pedro`|[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=pedro)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=pedro)](https://codecov.io/github/richelbilderbeek/cicone/branch/pedro)
@@ -106,4 +105,3 @@ and they lived happily until the next merge conflict (or they made their own bra
 
 
 Disclaimer:Evil enchantments were used to create this repository.
-=======
