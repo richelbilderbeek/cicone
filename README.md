@@ -28,6 +28,7 @@ Branch|[Travis](https://travis-ci.org)|[Codecov](https://www.codecov.io)
 `christoph`|[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=christoph)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=christoph)](https://codecov.io/github/richelbilderbeek/cicone/branch/christoph)
 `ellyjet`|[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=ellyjet)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=ellyjet)](https://codecov.io/github/richelbilderbeek/cicone/branch/ellyjet)
 
+
 ## FAQ
 
 ### What are the goals and non-goals of this exercise?
@@ -141,3 +142,5 @@ Disclaimer:Evil enchantments were used to create this repository.
 
 And an awesome line was added by an awesome contributor, who lived very happy and finished his PhD on time and without stress.
 I hate you.
+
+I'm falling in love with Grumpy, says Travis\
