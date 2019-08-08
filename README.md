@@ -14,12 +14,15 @@ Branch|[Travis](https://travis-ci.org)|[Codecov](https://www.codecov.io)
 `christoph`|[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=christoph)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=christoph)](https://codecov.io/github/richelbilderbeek/cicone/branch/christoph)
 `ellyjet`|[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=ellyjet)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=ellyjet)](https://codecov.io/github/richelbilderbeek/cicone/branch/ellyjet)
 `Magda` |[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=Magda)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=Magda)](https://codecov.io/github/richelbilderbeek/cicone/branch/Magda)
+`matteo` |[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=matteo)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=matteo)](https://codecov.io/github/richelbilderbeek/cicone/branch/matteo)
 `pedro`|[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=pedro)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=pedro)](https://codecov.io/github/richelbilderbeek/cicone/branch/pedro)
 `pratik` |[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=pratik)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=pratik)](https://codecov.io/github/richelbilderbeek/cicone/branch/pratik)
 `theo`|[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=theo)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=theo)](https://codecov.io/github/richelbilderbeek/cicone/branch/theo)
 
 
-
+Branch|[Travis](https://travis-ci.org)|[Codecov](https://www.codecov.io)
+---|---|---
+`matteo` |[![Build Status](https://travis-ci.org/richelbilderbeek/cicone.svg?branch=matteo)](https://travis-ci.org/richelbilderbeek/cicone)|[![codecov.io](https://codecov.io/github/richelbilderbeek/cicone/coverage.svg?branch=matteo)](https://codecov.io/github/richelbilderbeek/cicone/branch/matteo)
 
 ## FAQ
 
@@ -88,14 +91,25 @@ and they lived happily ever after.
 
 Snow White lived with the dwarves.
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+
+>>>>>>> develop
 and they lived happily until the next merge conflict.
 
-<<<<<<< HEAD
 which is this one
+<<<<<<< HEAD
 =======
 No dragons were harmed or mistreated in the writing of this GitHub fairy tale.
 >>>>>>> e05f18b93a0af56811ff40e61b5e85f656d2d3d9
 =======
+
+and they lived happily until the next merge conflict (or they made their own branch).
+
+>>>>>>> develop
+=======
+ 
+ "Oh no! it happened again" a voice said from the dark
 
 and they lived happily until the next merge conflict (or they made their own branch).
 
